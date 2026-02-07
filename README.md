@@ -4,7 +4,7 @@
 ## Algoritmos 📝
 - [Insertion-Sort](https://github.com/PedroMends30/tarefa-i-analise-algoritmos/tree/main/Insertion-Sort) - **Com Busca Linear e Binária**  (*Algoritmos de Busca e Ordenação*)
 - [AVL Tree-Sort](https://github.com/PedroMends30/tarefa-i-analise-algoritmos/blob/main/AVL%20Tree-Sort/tree_sort.py) - (*Algoritmos de Busca e Ordenação*)
-- [Heap-Sort]() - **Recursivo e Iterativo**  (*Algoritmos de Busca e Ordenação*)
+- [Heap-Sort](https://github.com/PedroMends30/tarefa-i-analise-algoritmos/tree/main/HeapSort) - **Recursivo e Iterativo**  (*Algoritmos de Busca e Ordenação*)
 
 
 ## Bibliotecas Utilizadas 📚
